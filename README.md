@@ -1,37 +1,47 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Spotify clone React 
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-  
-- Spotify clone raect
+**Client:** React js, React-router, Contex Api, Tailwind css,  songs Data,
 
-Tech Stack
-Client: React js, Contex Api, React-router, tailwind css, 
+## Demo
 
-Demo
 live: spotify-clone-react-hazel.vercel.app
 
+## Features
 
-Features
-Song previous and next button
-album songs list 
-user can move forward song by clicking on duration line  
+- user can play next and previous song by clicking on button 
+- album of songs 
+- user can move forward song by clicking on duration line
 
 Clone the project
 
+```bash
   git clone https://link-to-project
+```
+
 Go to the project directory
 
+```bash
   cd my-project
+```
+
 Open with VSCode
 
+```bash
   code .
+```
+
 Open with live server
 
+```bash
   npm run start
+```
+
+
+## Authors
+
+- [@shravanrawas](https://www.github.com/shravanrawad)
   
-@shravanrawas
+  
