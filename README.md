@@ -7,7 +7,7 @@ Spotify clone React
 
 ## Demo
 
-live: spotify-clone-react-hazel.vercel.app
+live: https://spotify-clone-react-hazel.vercel.app/
 
 ## Features
 
