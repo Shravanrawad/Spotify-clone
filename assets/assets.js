@@ -37,7 +37,6 @@ import img12 from './img12.jpg'
 import img13 from './img13.jpg'
 import img14 from './img14.jpg'
 import img15 from './img15.jpg'
-import img16 from './img16.jpg'
 import song1 from  './song1.mp3'
 import song2 from  './song2.mp3'
 import song3 from  './song3.mp3'
@@ -94,7 +93,7 @@ export const albumsData = [
     {   
         id:3,
         name: "Trending Global",
-        image: img16,
+        image: img10,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#44337a"
     },
@@ -127,7 +126,7 @@ export const songsData = [
         id:1,
         name: "Song Two",
         image: img2,
-        file:song2,
+        file:song3,
         desc:"Put a smile on your face with these happy tunes",
         duration:"2:20"
     },

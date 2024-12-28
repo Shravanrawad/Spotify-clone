@@ -92,8 +92,6 @@ const Playercontexprovider = (props) => {
       }, [audioRef]);
       
      
-    
-     
       const cosntexvalue = {
             audioRef,
             seekbar,
